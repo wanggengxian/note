@@ -1,5 +1,2 @@
 - [Python](/python/python)
-- [Go](/go/go)
-- [HTML](/html/html)
-- [CSS](/css/css)
-- [JavaScript](/javascript/javascript)
+- [Docker](/docker/docker)
