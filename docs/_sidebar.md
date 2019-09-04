@@ -1,4 +1,4 @@
 - [Python](/python/python)
 - [Docker](/docker/docker)
-- [Linux](/linux/linux)
+- [Linux](/Linux/linux)
 - [Git](/git/git)
